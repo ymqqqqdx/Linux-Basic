@@ -1,0 +1,91 @@
+#vim
+
+##Sector 1
+
+###cursor move
+1. h to left
+
+2. l to right
+
+3. k to up
+
+4. j to down
+
+###get in and quit
+
+1. :q quit
+
+2. :q! force quit
+
+3. :wq save and quit
+
+###Delete
+
+1. x to delete character
+
+###Insert
+
+1. i to enter insert mode
+
+##Sector 2
+
+1. dw to delete word
+
+2. d$ to delete to the end of line
+
+3. dd to delete the line
+
+4. format of a command is:
+[number] command object    or     command [number] object
+
+5. u to undo the operates last time  U to undo the operates of this line
+
+6. CTRL-R to redo the operates
+
+##Sector 3
+
+1. y to copy
+
+2. p to paste
+
+3. shift-v to select muilt-lines
+
+4. r to replace the character
+
+5. cw to change the word
+
+6. c$ to change until the end of the line
+
+7. the format of change command is:
+
+	[number]   c   object
+	c  [number]  object
+
+##Sector 4
+
+###Position commands
+
+1. CTRL-G to show the postion and file information
+
+2. enter line number then SHIFT-G to jump to the line,the end line by default
+
+###Search commands
+
+1. / + "string" to search the string
+
+2. n to search go on
+
+3. ? + "string" to search back to forward
+
+###Match )、]、}。**
+
+1. position the cursor at the any )、]、}。**,then press %,the cursor will jump to the matched one.
+
+##Replace
+
+1. :s/old/new/g to replace old to new in this line
+
+2. :#,#s/old/new/g replace old to new between the # and #
+
+3. :%s/old/new/g replace old to new of the whole file
+
