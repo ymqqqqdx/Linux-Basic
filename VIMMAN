@@ -81,7 +81,7 @@
 
 1. position the cursor at the any )、]、}。**,then press %,the cursor will jump to the matched one.
 
-##Replace
+###Replace
 
 1. :s/old/new/g to replace old to new in this line
 
@@ -89,3 +89,12 @@
 
 3. :%s/old/new/g replace old to new of the whole file
 
+###Sector 5
+
+1. :!command to operate an extern command
+
+2. :w FILENAME to save the current file to FILENAME
+
+3. :#,#w FILENAME to save the current file line # to # to Filename
+
+4. :r FILENAME to get the file and insert it to the screen.
