@@ -1,0 +1,758 @@
+    1  sudo'/home/ymqqqqdx/桌面/vmware-tools-distrib/vmware-install.pl' 
+    2  sudo'/home/ymqqqqdx/桌面/vmware-tools-distrib/vmware-install.pl'
+    3  sudo '/home/ymqqqqdx/桌面/vmware-tools-distrib/vmware-install.pl'
+    4  quit
+    5  exit
+    6  sudo chown book:book /work -R
+    7  sudo chown ymqqqqdx:ymqqqqdx /work -R
+    8  sudo/home/ymqqqqdx/桌面/vmware-tools-distrib
+    9  sudo /home/ymqqqqdx/桌面/vmware-tools-distrib
+   10  sudo /home/ymqqqqdx/桌面/vmware-tools-distrib/vmware-install.pl
+   11  restart
+   12  shutdown
+   13  shutdown -1
+   14  ls
+   15  cd 桌面
+   16  ls
+   17  cd uboot
+   18  ls
+   19  make smdk2410_config
+   20  ls
+   21  cd board
+   22  ls
+   23  cd..
+   24  dir
+   25  vi makefile
+   26  cd..
+   27  ls
+   28  cdls
+   29  sudo cd..
+   30  cd /home
+   31  ls
+   32  cd ymqqqqdx
+   33  ls
+   34  cd /work
+   35  ls
+   36  cd uboot
+   37  ls
+   38  make smdk2410_config
+   39  make CROSS_COMPILE=/work
+   40  make CROSS_COMPILE=/work/uboot
+   41  help
+   42  arm-linux-gcc -v
+   43  cd /tmp
+   44  ls
+   45  sudo tar xvzf arm-linux-gcc-3.4.1.tgz -C/
+   46  sudo tar xvzf arm-linux-gcc-3.4.1.tar.gz -C/
+   47  sudo tar xvzf arm-linux-gcc-4.3.3.tar.gz -C/
+   48  cd /usr
+   49  ls
+   50  cd local
+   51  ls
+   52  cd arm
+   53  ls
+   54  cd 4.3.3
+   55  ls
+   56  sudo gedit /root/.bashrc
+   57  arm-linux-gcc -v
+   58  gedit /root/.bashrc
+   59  sudo gedit /root/.bashrc
+   60  ``
+   61  sudo export PATH=$PATH:/usr/local/arm/3.4.1/bin
+   62  export PATH=$PATH:/usr/local/arm/3.4.1/bin
+   63  arm-linux-gcc -v
+   64  cd /work
+   65  ls
+   66  cd gt2440
+   67  cd GT2440
+   68  ls
+   69  cd u-boot-1.1.6
+   70  ls
+   71  make GTStudio_config
+   72  make
+   73  ls
+   74  arm-linux-gcc -v
+   75  cd /etc
+   76  ls
+   77  cd environment
+   78  ls
+   79  cd environment
+   80  environment
+   81  gedit environment
+   82  sudo gedit environment
+   83  arm-linux-gcc -v
+   84  ls
+   85  cd /etc
+   86  ls
+   87  cd ufw
+   88  ls
+   89  cd..
+   90  cd .
+   91  cd ..
+   92  ls
+   93  cd..
+   94  cd ..
+   95  ls
+   96  cd opt
+   97  ls
+   98  cd ..
+   99  make GT2440_config
+  100  arm-linux-gcc 0v
+  101  arm-linux-gcc -v
+  102  make GT2440_config
+  103  cd /work
+  104  ls
+  105  cd u-boot-2008.10
+  106  ls
+  107  make GT2440_config
+  108  make
+  109  make all
+  110  sudo make
+  111  make
+  112  make all
+  113  make GT2440_config
+  114  make all
+  115  make
+  116  cd /work
+  117  ls
+  118  cd ubootss
+  119  ls
+  120  cd 2440
+  121  make smdk2440_config
+  122  make
+  123  arm-linux-gcc -v
+  124  make all
+  125  make s3c2440_config
+  126  make smdk2440_config
+  127  cd /work
+  128  ls
+  129  cd ubootss
+  130  ls
+  131  cd 2440
+  132  ls
+  133  make smdk2440_config
+  134  make
+  135  arm-linux-gcc -v
+  136  cd /work
+  137  ls
+  138  cd u-boot-2008.10
+  139  ls
+  140  make GT2440_config
+  141  make
+  142  cd /etc
+  143  ls
+  144  cd environment
+  145  environment
+  146  sudo gedit environment
+  147  ls
+  148  cd /work
+  149  ls
+  150  cd ubootss
+  151  ls
+  152  cd 2440
+  153  ls
+  154  make smdk2440_config
+  155  make 
+  156  cd /work
+  157  ls
+  158  cd linux-2.6.30.4
+  159  ls
+  160  make menuconfig
+  161  cd /etc
+  162  ls
+  163  gedit environment
+  164  sudo gedit environment
+  165  arm-linux-gcc -v
+  166  sudo apt-get install ncurses-dev
+  167  cd /work
+  168  ls
+  169  cd linux-2.6.30.4
+  170  ls
+  171  make menuconfig
+  172  arm-linux-gcc -v
+  173  make menuconfig
+  174  menuconfig
+  175  ls
+  176  gedit makefile
+  177  make menuconfig
+  178  cp config_GT2440 .config
+  179  make zImage
+  180  make menuconfig
+  181  make xconfig
+  182  ls -a
+  183  v1 .config
+  184  view .config
+  185  cd /work
+  186  ls
+  187  cd linux-2.6.30.4
+  188  ls
+  189  make menuconfig
+  190  make xconfig
+  191  ismod
+  192  lsmod
+  193  cd /work
+  194  ls
+  195  sudo apt-get install vim
+  196  vim
+  197  sudo su
+  198  cd
+  199  cd /home
+  200  cd
+  201  ls
+  202  pwd
+  203  cd /
+  204  ls
+  205  pwd
+  206  cd /home
+  207  ls
+  208  cd /
+  209  ls
+  210  ls mnt
+  211  cd /home
+  212  ls
+  213  pwd
+  214  cd
+  215  ls
+  216  pwd
+  217  cd /home
+  218  cd
+  219  touch new.txt
+  220  ls
+  221  vim new.txt
+  222  touch .123
+  223  ls
+  224  ls -a
+  225  ls
+  226  cd
+  227  ls
+  228  vim new.txt 
+  229  ls -a
+  230  cd .local/
+  231  ls -a
+  232  cd share/
+  233  ls
+  234  cd gvfs-metadata/
+  235  ls
+  236  cd
+  237  ls
+  238  new.txt
+  239  cls
+  240  clc
+  241  clr
+  242  crc
+  243  ls
+  244  touch ne2.txt
+  245  ls
+  246  del ne2.txt 
+  247  ls
+  248  sudo apt-get install markdown
+  249  markdown
+  250  vim note.md
+  251  markdown note.md >note.html
+  252  firefox note.html 
+  253  vim note.md
+  254  markdown note.md >note.html
+  255  firefox note.html
+  256  vim note.md
+  257  mkdir Notes
+  258  cd notes
+  259  ls
+  260  cd Notes/
+  261  s
+  262  ls
+  263  touch note12_5.md
+  264  vim note12_5.md 
+  265  markdown note12_5.md >note12_5.html
+  266  firefox note12_5.html&
+  267  vim note12_5.md 
+  268  markdown note12_5.md >note12_5.html
+  269  firefox note12_5.html&
+  270  vim note12_5.md 
+  271  markdown note12_5.md >note12_5.html
+  272  cd..
+  273  cd .
+  274  ls
+  275  cd
+  276  ls
+  277  mkdir temp
+  278  cd temp
+  279  ls
+  280  mkdir dir1
+  281  ls
+  282  cd
+  283  ls
+  284  file temp
+  285  file new.txt
+  286  file examples.desktop 
+  287  vim examples.desktop 
+  288  man file
+  289  man man
+  290  ls /help
+  291  ls -help
+  292  ls --help
+  293  man ls
+  294  ls
+  295  cd temp
+  296  ls
+  297  touch text1.txt
+  298  ls
+  299  vim text1.txt 
+  300  markdown text1.txt text1.html
+  301  markdown text1.txt >text1.html
+  302  firefox text1.html 
+  303  ls
+  304  cd temp
+  305  ls
+  306  touch text2.txt
+  307  vim text2.txt 
+  308  markdown text2.txt >note 12.5.html
+  309  ls
+  310  markdown text2.txt >note_12.5.html
+  311  ls
+  312  firefox note_12.5.html &
+  313  cd ./
+  314  cd..
+  315  vim text2.txt 
+  316  markdown text2.txt >note_12.5.html
+  317  firefox note_12.5.html &
+  318  ls
+  319  cat test2.txt
+  320  ls
+  321  cat
+  322  cat ..help
+  323  cat /?
+  324  cat .help
+  325  ls
+  326  cat text2.txt 
+  327  more text2.txt 
+  328  when have
+  329  ls
+  330  la
+  331  ls -a
+  332  la
+  333  ls
+  334  cd temp
+  335  cd
+  336  ls
+  337  pwd
+  338  cd /
+  339  ls
+  340  cd /
+  341  ls
+  342  pwd
+  343  cd /home
+  344  pwd
+  345  sudo apt-get install tree
+  346  ls
+  347  cd
+  348  ls
+  349  tree
+  350  ls
+  351  cd temp
+  352  ls
+  353  less text2.txt 
+  354  head text2.t
+  355  head text2.txt 
+  356  tail text2.txt 
+  357  man ln
+  358  ls
+  359  touch link1
+  360  ls -l link1
+  361  ln text2.txt link1
+  362  del link1
+  363  rm link1
+  364  ls
+  365  ln text2.txt link1
+  366  ls
+  367  ll
+  368  ln -s text2.txt link2
+  369  ll
+  370  vim link2
+  371  la
+  372  ll
+  373  ls
+  374  cd ..
+  375  ls
+  376  cp temp/text2.txt
+  377  cp --help
+  378  ls
+  379  cd temp
+  380  cp new.txt temp
+  381  cp ./new.txt /
+  382  clear
+  383  cd .
+  384  .
+  385  cd ..
+  386  cd ./temp
+  387  cd .
+  388  pwd
+  389  pwd .
+  390  pwd ..
+  391  ls
+  392  cp ../new.txt ./
+  393  ls
+  394  rm new.txt
+  395  ls
+  396  cd ...
+  397  cd ..
+  398  cd temp
+  399  mkdir dir1
+  400  cd dir1
+  401  ls
+  402  mkdir dir2
+  403  cd dir2
+  404  ls
+  405  cd ...
+  406  cd ..
+  407  ls
+  408  cd ..
+  409  ls
+  410  cp ../new.txt ./dir1/dir2
+  411  ls
+  412  cd
+  413  ls
+  414  cd temp
+  415  tree
+  416  pwd
+  417  la
+  418  copy text1.txt ./dir1 -l
+  419  copy -l text1.txt ./dir1
+  420  cp -l text1.txt ./dir1
+  421  ll dir1
+  422  vim ./text1.txt
+  423  ls
+  424  ll
+  425  cd dir1
+  426  ls
+  427  rm text1.txt 
+  428  ls
+  429  cd ..
+  430  ls
+  431  tree
+  432  find -name 't*'
+  433  which ls
+  434  which cp
+  435  which man
+  436  grep 'printf' /usr/include -R
+  437  ls
+  438  grep 'to' ./
+  439  grep 't' ./
+  440  grep 't' ./ -R
+  441  wc text2.txt 
+  442  wc -c text2.txt 
+  443  wc -w text2.txt 
+  444  ll
+  445  la
+  446  ll
+  447  lF
+  448  ls -F
+  449  ls
+  450  ls -d
+  451  ls -R
+  452  ls -d dir1
+  453  cat text1.txt
+  454  mkdir rename
+  455  cd rename/
+  456  ls
+  457  mkdir dir1
+  458  mkdir dir2
+  459  mkdir dir3
+  460  touch file1
+  461  touch file2
+  462  touch file3
+  463  ls
+  464  ll
+  465  move dir1 dir2
+  466  mv dir1 dir2
+  467  ls
+  468  ls dir2
+  469  mv /dir2/dir1 ./
+  470  mv ./dir2/dir1 ./
+  471  ls
+  472  dir
+  473  dir -a
+  474  ls
+  475  clear
+  476  ls
+  477  mv file1 fan
+  478  ls
+  479  mv fan file1
+  480  ls
+  481  cd /
+  482  ls
+  483  cd mnt
+  484  ls
+  485  cd hgfs
+  486  ls
+  487  cd e
+  488  cd E
+  489  ls
+  490  cd
+  491  sdo apt-get install git-core
+  492  sudo apt-get install git-core
+  493  git-core
+  494  ls
+  495  vim note.md
+  496  cd temp
+  497  ls
+  498  ll
+  499  cd rename
+  500  ls
+  501  cd dir1
+  502  ls
+  503  vim file1
+  504  cd /home
+  505  ll
+  506  cd
+  507  ll
+  508  la
+  509  ls
+  510  echo
+  511  echo $HOME
+  512  echo $home
+  513  echo $HOME
+  514  echo $.
+  515  echo $HOME
+  516  git
+  517  ll
+  518  ll .*
+  519  la
+  520  git
+  521  man apt-get
+  522  sudo apt-get install git-core
+  523  git
+  524  cvs
+  525  git
+  526  clear
+  527  cd temp
+  528  ls
+  529  markdown text2.txt 
+  530  git clone git://github.com/happypeter/job-akae.git
+  531  git
+  532  git clone git://github.com/happypeter/job-akae.git
+  533  ls
+  534  cd job-akae
+  535  ls
+  536  vim qhd_plan.md
+  537  git clone git://github.com.happypeter/job-akae.wiki.git
+  538  ls
+  539  cd ..
+  540  ls
+  541  git clone git://github.com.happypeter/job-akae.wiki.git
+  542  ls
+  543  cd job-akae.wiki/
+  544  git pull
+  545  ls
+  546  less note-qhd.md 
+  547  git show
+  548  ping www.baidu.com
+  549  git clone git://github.com/happypeter/job-akae.wiki.git
+  550  ls
+  551  cd job-akae.wiki
+  552  ls
+  553  markdown note-qhd.md > note.html
+  554  firefox note.html&
+  555  ls
+  556  cd ..
+  557  ls
+  558  ls temp
+  559  mv ./temp/job-akae ./job-akae
+  560  ls
+  561  ls job-akae.wiki/
+  562  mv job-akae job-akae.wiki/
+  563  ls
+  564  cd job-akae.wiki
+  565  ls
+  566  cd ..
+  567  mv job-akae.wiki notes
+  568  ls
+  569  rm Notes
+  570  cd Notes
+  571  ls
+  572  mv *.*
+  573  ls
+  574  mv note12_5.md 
+  575  rm note12_5.md 
+  576  ls
+  577  cd ..
+  578  ls
+  579  rm Notes
+  580  ls
+  581  cd notes
+  582  ls
+  583  cd ..
+  584  cd notes/
+  585  ls
+  586  markdown Home.md >Home.html
+  587  firefox home.html&
+  588  firefox Home.html&
+  589  cd ..
+  590  ls
+  591  cd
+  592  ls
+  593  mv notes job-akae.wiki
+  594  ls
+  595  cd job-akae.wiki
+  596  git pull
+  597  ls
+  598  less note-qhd.md 
+  599  git pull
+  600  ls
+  601  less note-qhd.md 
+  602  markdown note-qhd.md >note.html 
+  603  ls
+  604  firefox note.html &
+  605  rm job-akae
+  606  ls
+  607  ls job-akae/
+  608  ls
+  609  cd job-akae/
+  610  ls
+  611  cd ..
+  612  ls
+  613  man rm
+  614  note-qhd.md
+  615  note-qhd.mdymqqqqdx@ymqqqqdx-desktop:~/job-akae.wiki$ 
+  616  ymqqqqdx@ymqqqqdx-desktop:~/job-akae.wiki$ 
+  617  cd ..
+  618  ls
+  619  sudo su
+  620  ls
+  621  rm todelete
+  622  ls
+  623  sudo su
+  624  rm del
+  625  ls
+  626  cd ..
+  627  ls
+  628  rm del
+  629  rm -rf del
+  630  ll
+  631  sudo rm del
+  632  ls
+  633  cd
+  634  ls
+  635  readonly
+  636  clear
+  637  ls
+  638  cd temp
+  639  ls
+  640  cd ..
+  641  dir
+  642  cd job-akae.wiki/
+  643  ls
+  644  git pull
+  645  ls
+  646  less note-qhd.md 
+  647  git show
+  648  cd ..
+  649  ls
+  650  cd temp
+  651  ls
+  652  cd rename
+  653  ls
+  654  vim file1
+  655  cp file1 file2
+  656  ls
+  657  less file2
+  658  vim file2
+  659  diff -u file1 file2 >file.diff
+  660  less file.diff
+  661  patch file.diff
+  662  ls
+  663  less file.diff
+  664  sudo apt-get install tig
+  665  tig
+  666  ls
+  667  cp file1 file4
+  668  ls
+  669  cp file1 file3
+  670  ls
+  671  less file3
+  672  less file1
+  673  cd ..
+  674  ls
+  675  cd job-akae.wiki/
+  676  ls
+  677  tig
+  678  cd ../temp
+  679  ls
+  680  vim text1.txt
+  681  less text1.txt 
+  682  ls
+  683  cd rename
+  684  ls
+  685  patch > file.diff 
+  686  less file1
+  687  less file2
+  688  patch --help
+  689  patch -u file.diff
+  690  ls
+  691  patch -u file1 file2 >file.diff
+  692  patch file.diff
+  693  patch <file.diff
+  694  ls
+  695  less file1
+  696  less file2
+  697  less file1
+  698  diff -u file1 file2 > dif.diff
+  699  less dif.diff
+  700  patch <dif.diff
+  701  less file1
+  702  less file2
+  703  git
+  704  ls
+  705  mkdir github
+  706  cd github/
+  707  git git://github.com/ymqqqqdx/Linux-Basic.git
+  708  git clone git://github.com/ymqqqqdx/Linux-Basic.git
+  709  ls
+  710  cd Linux-Basic/
+  711  touch file1.txt
+  712  ls
+  713  cd ..
+  714  ls
+  715  cd Linux-Basic/
+  716  push
+  717  git pus
+  718  git puss
+  719  git push
+  720  git init
+  721  git config
+  722  git config --global
+  723  git config --global user.name "ymqqqqdx"
+  724  git config --global user.email "ymqqqqdx@163.com"
+  725  ls
+  726  git add file1.txt
+  727  ls
+  728  git commit -m 'first commit'
+  729  git remote add origin git@github.com:ymqqqqdx/Linux-Basic.git
+  730  git push origin master
+  731  ls
+  732  touch README
+  733  ls
+  734  git add README
+  735  ls
+  736  git commit -m 'first commit'
+  737  git remote add origin git@github.com:ymqqqqdx/Linux-Basic.git
+  738  git push origin master
+  739  cd /
+  740  ls
+  741  cd ~/.ssh
+  742  ssh-keygen -t rsa -C "ymqqqqdx@163.com"
+  743  ssh git@github.com
+  744  cd
+  745  ls
+  746  cd job-akae.wiki/
+  747  git pull
+  748  ls
+  749  markdown note-qhd.md > note.html 
+  750  firefox note.html 
+  751  gcc
+  752  cd ..
+  753  ls
+  754  cd github
+  755  ls
+  756  cd Linux-Basic/
+  757  ls
+  758  history >history.txt
