@@ -89,7 +89,7 @@
 
 3. :%s/old/new/g replace old to new of the whole file
 
-###Sector 5
+##Sector 5
 
 1. :!command to operate an extern command
 
@@ -98,3 +98,17 @@
 3. :#,#w FILENAME to save the current file line # to # to Filename
 
 4. :r FILENAME to get the file and insert it to the screen.
+
+##Sector 6
+
+1. o to move to the next line and go to insert mode,O to the previous line
+
+2. a to move the next position,A to move to the end of line.
+
+3. R to replace more.
+
+4. set xxx to set options,like set ic(ignore case).
+
+##Sector 7
+
+1. :help command to get the help of the command
